@@ -7,6 +7,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Jobs.Models {
     public class Work {
+        internal readonly object Nome;
+        internal object Works;
+
         [Key]
         public int Id { get; set; }
         public string User { get; set; }
