@@ -6,7 +6,8 @@
 
 |DATA    |VERSÃO  | DESCRIÇÃO | AUTOR |
 |------|-----------------------------------------|----|----|
-| 02/OUT/04 | DOC | DOCUMENTAÇÃO| JOBS |
+| 02/OUT/22 | DOC | DOCUMENTAÇÃO| JOBS |
+| 26/NOV/22 | DOC | DOCUMENTAÇÃO| JOBS |
 
 
 ## TESTE DE USABILIDADE
@@ -46,10 +47,7 @@ Portanto, a execução dos testes de usabilidade da plataforma JOBS contará com
  ## Formato da Pesquisa
  
  `SELEÇÃO DOS USUARÍOS`<br>
- 
- **Serão 6 participantes ao total, sendo que cada um realizará dois testes:**<br>
- - Contratação de um serviço;<br>
- -  Disponibilização de um serviço;<br> 
+ O teste de usabilidade será realizado com 3 dos componentes do grupo.
  
  `EQUIPAMENTOS E SOFTWARES NECESSÁRIOS`<br>
  - Computador com microfone, autofalante e webcam; <br>
@@ -72,22 +70,26 @@ Quando finalizar uma fase, peço que me informe para que eu encerre minhas medi�
 E não se esqueça, você não está sendo avaliada. Portanto, tente agir como se estivesse sozinha e tivesse que utilizar nosso software. Pode ir comentando e pensando em voz alta enquanto realiza o teste. O seu feedback é o ponto mais importante deste teste de usabilidade!* 
 
 `Tarefas a serem executadas`<br>
-- Contratar um serviço disponível na plataforma; 
-- Cadastrar um serviço na plataforma; 
+1-	Cadastro de conta no sistema;
+2-	Login;
+3-	Cadastrar um serviço na plataforma;
+4-	Buscar um serviço
 
 `Resultados esperados`<br>
 **Para tarefa 1:**
+- Encontrar página de cadastro;
+- Inserir nos locais corretos as informações necessárias para cadastro de conta;
 
-- Conseguir acessar o campo de busca dentro da plataforma; 
+**Para tarefa 2:**
+- Encontrar página de login;
+- Inserir dados cadastrados nos locais corretos;
+- Conseguir realizar login no sistema;
 
-- Conseguir utilizar o filtro dentro do campo de busca; 
+**Para tarefa 3:**
+- Encontrar página de cadastro de serviços;
+- Inserir os dados do serviço nos locais corretos;
+- Cadastrar serviço;
 
-- Encontrar o serviço desejado; 
-
-- Iniciar contratação do serviço via mensagem para o ofertante; 
-
-
- ## Resultados Encontrados 
- 
- - Ainda sem resultados, pois teste não foi executado. Neste tópico será detalhado a experiência dos usuários e o que foi observado quanto a realização das tarefas, destacando as principais falhas e acertos encontrados no teste. 
-
+**Para tarefa 4:**
+- Encontrar página de serviços disponíveis;
+- Buscar um serviço;
