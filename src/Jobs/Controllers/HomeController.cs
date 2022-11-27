@@ -1,13 +1,10 @@
 ﻿using Jobs.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace Jobs.Controllers {
+namespace Jobs.Controllers
+{
     public class HomeController : Controller {
         private readonly ILogger<HomeController> _logger;
 
@@ -16,10 +13,6 @@ namespace Jobs.Controllers {
         }
 
         public IActionResult Index() {
-            return View();
-        }
-
-        public IActionResult Privacy() {
             return View();
         }
 
