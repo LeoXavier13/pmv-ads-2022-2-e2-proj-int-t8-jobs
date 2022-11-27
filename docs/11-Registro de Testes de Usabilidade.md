@@ -2,7 +2,7 @@
 <p>Após realizar os testes de usabilidade, fizemos um relatório a partir das análises realizadas. Nosso Registro de Testes de Usabilidade contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de cada etapa.</p>
 
 ## Teste de Cadastro de Usuário
-### Participantes do Teste
+`Participantes do Teste`
 <ul>
 <li>Alisson A. Carvalho</li>
 <li>Leonardo Xavier</li>
@@ -10,41 +10,14 @@
 </ul>
 <hr>
 
-### Condições de Realização do Teste
+`Condições de Realização do Teste`
 <p>Todos os participantes do teste tinham os equipamentos e softwares necessários, como 
 computador com microfone, autofalante, webcam e boa conexão com a internet. O teste foi 
 realizado via Microsoft Teams e o acesso a solução web em estudo foi disponibilizada via GitHub.</p>
 <hr>
 
-### Resultados por Usuário
+`Resultados`
 
-#### Alisson A. Carvalho
-![image](https://user-images.githubusercontent.com/100442612/198893918-3b935a21-1a52-4a99-bb50-c78136124e5e.png)
-![image](https://user-images.githubusercontent.com/100442612/198893959-3bef8410-5c30-4176-aae5-f641cb3ce88c.png)
-<p>No cadastro, o usuário inicialmente, não conseguiu entrar com a senha que inseriu no campo 
-correspondente. Após a tentativa, apareceu os requisitos mínimos de senha para o cadastro. 
-Então o usuário fez uma nova tentativa de acordo com os requisitos e obteve sucesso.</p>
-<ul>
-    <li>Pontos positivos:</li>
-    <p>- Rapidez na efetivação do cadastro;</p>
-    <p>- Usuário intuitivamente seguiu os passos certos para realizar o cadastro.</p>
-    <li>Pontos de melhoria:</li>
-    <p>- Usuário não sabia os requisitos mínimos para cadastrar senha até o momento em que 
-o sistema apresentou a informação após o erro.</p>
-</ul>
-
-![image](https://user-images.githubusercontent.com/100442612/198893981-4618608c-26fd-40fc-a316-a7c614ca074d.png)
-<p>Após o cadastro, na tela de Login, usuário inseriu os dados cadastrados nos campos correspondentes.</p>
-<ul>
-    <li>Pontos positivos:</li>
-    <p>- Agilidade de acessar a página de Login;</p>
-    <p>- Usuário intuitivamente inseriu as informações cadastradas nos locais correspondentes.</p>
-    <li>Pontos de melhoria:</li>
-    <p>- Ainda não observados.</p>
-</ul>
-<hr>
-
-#### Leonardo Xavier
 ![image](https://user-images.githubusercontent.com/100442612/198895100-c1ce1d37-746a-4998-87e3-646a7fce86ed.png)
 ![image](https://user-images.githubusercontent.com/100442612/198895153-bfb2e60a-a854-44d0-a49c-9447cf82fe8d.png)
 <p>Durante o cadastro, o usuário inicialmente tentou cadastrar uma senha e somente após a tentativa de cadastro, o sistema retornou a mensagem dos requisitos mínimos para registro de senha. Após isso, o usuário tentou realizar o cadastro novamente e obteve sucesso.</p>
@@ -68,134 +41,92 @@ o sistema apresentou a informação após o erro.</p>
 </ul>
 <hr>
 
-#### Vinicius Luiz Alves de Oliveira
-![image](https://user-images.githubusercontent.com/100442612/198893719-5aef5fbe-4186-41f2-b980-46136b025376.png)
-![image](https://user-images.githubusercontent.com/100442612/198893642-b300f829-9055-425d-8ff3-0332fd6f1837.png)
-![image](https://user-images.githubusercontent.com/100442612/198893842-c4f60497-9172-4291-92fa-42a47ac326e2.png)
-
-<p>Usuário enviou o cadastro. Após a tentativa sem sucesso, sistema retornou mensagem com os requisitos para o registro de senha. Novamente, o usuário tentou o cadastro dentro dos requisitos mínimos e obteve sucesso.</p>
+## Teste de Login
+`Participantes do Teste`
 <ul>
-    <li>Pontos positivos:</li>
-    <p>- Cadastro simples e objetivo;</p>
-    <p>- Rapidez na efetivação do cadastro.</p>
-    <li>Pontos de melhoria:</li>
-    <p>- Usuário só soube os requisitos mínimos de criação de senha após o sistema apontar um erro.</p>
-</ul>
-
-![image](https://user-images.githubusercontent.com/100442612/198893819-8872eb88-01cd-4a36-9a99-1f9d1dcf855a.png)
-<p>Após cadastro, o usuário utilizou a tela de Login e intuitivamente inseriu os dados previamente cadastrados nos locais correspondentes.</p>
-<ul>
-    <li>Pontos positivos:</li>
-    <p>- Agilidade de acessar a página de Login;</p>
-    <p>- Usuário intuitivamente inseriu as informações cadastradas nos locais correspondentes.</p>
-    <li>Pontos de melhoria:</li>
-    <p>- Ainda não observados.</p>
+<li>Alisson A. Carvalho</li>
+<li>Leonardo Xavier</li>
+<li>Vinicius Luiz Alves de Oliveira</li>
 </ul>
 <hr>
 
-## Resumo do Teste
-<p>Nesta sessão apresentamos uma tabela com pontos a serem melhorados na usabilidade da apliação de acordo com os testes realizados com usuários.</p>
-<table>
-<tr>
-    <th>Pontos positivos</th>
-    <th>Pontos a melhorar</th>
-    <th>Plano de ação</th>
-</tr>
-<tr>
-    <th>Rapidez na efetivação do cadastro.</th>
-    <th>Usuário não sabia os requisitos mínimos para cadastrar uma senha até o momento em que o sistema apresentou a informação após o erro.</th>
-    <th>Manter a informação previamente na página dos requisitos mínimos para o registro de uma senha.</th>
-</tr>
-<tr>
-    <th>Usuário intuitivamente seguiu os passos certos para realizar o cadastro.</th>
-    <th></th>
-    <th></th>
-</tr>
-<tr>
-    <th>Agilidade de acessar a página de Login.</th>
-    <th></th>
-    <th></th>
-</tr>
-<tr>
-    <th>Usuário intuitivamente inseriu as informações cadastradas nos locais correspondentes.</th>
-    <th></th>
-    <th></th>
-</tr>
-</table>
+`Condições de Realização do Teste`
+<p>Todos os participantes do teste tinham os equipamentos e softwares necessários, como 
+computador com microfone, autofalante, webcam e boa conexão com a internet. O teste foi 
+realizado via Microsoft Teams e o acesso a solução web em estudo foi disponibilizada via GitHub.</p>
+<hr>
 
-## Questionário SUS (System Usability Scape)
-<p>Nesta sessão apresentamos uma tabela com pontos a serem melhorados na usabilidade da apliação de acordo com os testes realizados com usuários.</p>
-<table>
-<tr>
-    <th>Nº</th>
-    <th>Item</th>
-    <th>Resposta dos Usuários</th>
-    <th>Resposta Convertida</th>
-</tr>
-<tr>
-    <th>1</th>
-    <th>Eu acho que gostaria de usar esse sistema com frequência.</th>
-    <th>5</th>
-    <th>5 - 1 = 4</th>
-</tr>
-<tr>
-    <th>2</th>
-    <th>Eu acho o sistema desnecessariamente complexo.</th>
-    <th>1</th>
-    <th>5 - 1 = 4</th>
-</tr>
-<tr>
-    <th>3</th>
-    <th>Eu achei o sistema fácil de usar.</th>
-    <th>5</th>
-    <th>5 - 1 = 4</th>
-</tr>
-<tr>
-    <th>4</th>
-    <th>Eu acho que precisaria de ajuda de uma pessoa com conhecimentos técnicos para usar o sistema.</th>
-    <th>1</th>
-    <th>4 - 1 = 3</th>
-</tr>
-<tr>
-    <th>5</th>
-    <th>Eu acho que as várias funções do sistema estão muito bem integradas.</th>
-    <th>4</th>
-    <th>4 - 1 = 3</th>
-</tr>
-<tr>
-    <th>6</th>
-    <th>Eu acho que o sistema apresenta muita inconsistência.</th>
-    <th>2</th>
-    <th>5 - 2 = 3</th>
-</tr>
-<tr>
-    <th>7</th>
-    <th>Eu imagino que as pessoas aprenderão como usar esse sistema rapidamente.</th>
-    <th>5</th>
-    <th>5 - 1 = 4</th>
-</tr>
-<tr>
-    <th>8</th>
-    <th>Eu achei o sistema atrapalhado de usar.</th>
-    <th>1</th>
-    <th>5 - 1 = 4</th>
-</tr>
-<tr>
-    <th>9</th>
-    <th>Eu me senti confiante ao usar o sistema.</th>
-    <th>5</th>
-    <th>5 - 1 = 4</th>
-</tr>
-<tr>
-    <th>10</th>
-    <th>Eu precisei aprender várias coisas novas antes de conseguir usar o sistema.</th>
-    <th>1</th>
-    <th>5 - 1 = 4</th>
-</tr>
-<tr>
-    <th></th>
-    <th>Cálculo do SUS-score = 38 * 2,5 = 95</th>
-    <th></th>
-    <th>38</th>
-</tr>
-</table>
+`Resultados`
+
+![image](https://user-images.githubusercontent.com/103225086/204157976-0f679e7a-42e8-4497-9e8c-7ed52c06d75b.png)
+![image](https://user-images.githubusercontent.com/103225086/204157980-246eedf5-279b-4835-ab9e-4327b503f9f9.png)
+
+O usuário encontrou facilmente a tela de login e inseriu os dados necessários nos locais corretos sem dificuldade.
+- Pontos positivos: 
+	- Facilidade de acesso;
+	- Página indica que usuário está logado;
+
+- Pontos a melhorar:
+	- Não identificado;
+
+## Teste de Cadastro de Serviços
+`Participantes do Teste`
+<ul>
+<li>Alisson A. Carvalho</li>
+<li>Leonardo Xavier</li>
+<li>Vinicius Luiz Alves de Oliveira</li>
+</ul>
+<hr>
+
+`Condições de Realização do Teste`
+<p>Todos os participantes do teste tinham os equipamentos e softwares necessários, como 
+computador com microfone, autofalante, webcam e boa conexão com a internet. O teste foi 
+realizado via Microsoft Teams e o acesso a solução web em estudo foi disponibilizada via GitHub.</p>
+<hr>
+
+`Resultados`
+
+![image](https://user-images.githubusercontent.com/103225086/204158014-e2745065-edc5-4294-b297-50485eb47323.png)
+![image](https://user-images.githubusercontent.com/103225086/204158021-fb2965ae-6515-4347-b49c-bd54602f1f42.png)
+![image](https://user-images.githubusercontent.com/103225086/204158024-420ba66d-04a9-40ab-a9d5-a693543a140e.png)
+
+O usuário encontrou a tela de cadastro de serviços rapidamente no menu superior da solução web e cadastrou seu serviço de maneira satisfatória, encontrando facilidade para realizar upload da foto de referência e inserir as devidas descrições.
+
+- Pontos positivos:
+	- Facilidade de encontrar página de cadastro de produto;
+	- Cadastro de serviços intuitivo;
+
+- Pontos a melhorar:
+	Sem informação.
+
+## Teste de Busca de Serviços
+`Participantes do Teste`
+<ul>
+<li>Alisson A. Carvalho</li>
+<li>Leonardo Xavier</li>
+<li>Vinicius Luiz Alves de Oliveira</li>
+</ul>
+<hr>
+
+`Condições de Realização do Teste`
+<p>Todos os participantes do teste tinham os equipamentos e softwares necessários, como 
+computador com microfone, autofalante, webcam e boa conexão com a internet. O teste foi 
+realizado via Microsoft Teams e o acesso a solução web em estudo foi disponibilizada via GitHub.</p>
+<hr>
+
+`Resultados`
+
+![image](https://user-images.githubusercontent.com/103225086/204158036-62e99170-e960-420e-87f5-f9a0cf97e483.png)
+![image](https://user-images.githubusercontent.com/103225086/204158041-361b7550-7791-4efc-86a0-5e63b39da634.png)
+![image](https://user-images.githubusercontent.com/103225086/204158044-7d0defbb-2caf-4f30-8741-f27714d2ae18.png)
+![image](https://user-images.githubusercontent.com/103225086/204158049-2d9f403d-8dd1-4f93-a54c-5853bc87b76f.png)
+
+O usuário encontrou facilmente a barra de pesquisa de serviços e de maneira intuitiva clicou em pesquisar.
+
+- Pontos positivos:
+	- Facilidade de encontrar barra de pesquisa;
+	- Pesquisa por parte da palavra auxiliou o usuário;
+	- Usuário encontrou o serviço desejado no campo de busca uma vez que o campo atuou como filtro;
+
+- Pontos a melhorar:
+	- Quando o serviço não foi encontrado, o usuário não recebeu mensagem de feedback da página;
