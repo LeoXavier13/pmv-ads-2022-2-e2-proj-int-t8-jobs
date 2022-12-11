@@ -2,10 +2,10 @@
 
 ## Instalação do Site
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
+Para acessar a aplicação, acesse o link https://jobs-pucminas.azurewebsites.net/
 
 ## Histórico de versões
 
-### [0.1.0] - DD/MM/AAAA
-#### Adicionado
-- Adicionado ...
+### [1.0.0] - 11/12/2022
+#### Modificações
+- Deploy da aplicação
